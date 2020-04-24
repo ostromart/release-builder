@@ -74,6 +74,7 @@ dashboards:
   istio-workload-dashboard: 7630
   mixer-dashboard: 7642
   pilot-dashboard: 7645
+outputs: [archive]
 EOF
 )
 
